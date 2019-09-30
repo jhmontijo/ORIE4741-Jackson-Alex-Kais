@@ -1,4 +1,3 @@
-ORIE 4741
 # Flight Delay Due to Weather Trend Analysis
 ### Jackson Montijo (jhm343), Alexander Schmack (as2968), Kais Baillargeon (kpb52)
 ## Question
@@ -8,15 +7,15 @@ How do the daily local weather trends at an airport pair impact the expected del
 
 ## Data Used
 For this project we shall use two datasets:
-*‘On-Time : Reporting Carrier On-Time Performance (1987-present)’ by the Bureau of Transportation Statistics
-*‘Daily Summaries Station Details’ by the National Oceanic & Atmospheric Administration
+* ‘On-Time : Reporting Carrier On-Time Performance (1987-present)’ by the Bureau of Transportation Statistics
+* ‘Daily Summaries Station Details’ by the National Oceanic & Atmospheric Administration
 Airports used in this analysis: ATL, LAX, ORD, DFW, DEN, JFK, SFO, SEA, LAS, MCO
 
 These data sets will provide us with daily flight records for every flight occuring between the desired airports, as well as local weather at both the origin and destination airports. This will allow us to analyze the local weather trends of both origin and destination airports and understand the relationship this has to flight delays.
 
 ##Additional Exploration Questions
-1.Based on a 7 day weather forecast, which day and airline should I fly to minimize the expected delay?
-2.How do current weather trends impact the delay of future flights?
-3.How do we minimize the expected cost of delays to the company?
+1. Based on a 7 day weather forecast, which day and airline should I fly to minimize the expected delay?
+2. How do current weather trends impact the delay of future flights?
+3. How do we minimize the expected cost of delays to the company?
 
 
