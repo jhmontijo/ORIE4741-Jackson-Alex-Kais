@@ -13,7 +13,7 @@ Airports used in this analysis: ATL, LAX, ORD, DFW, DEN, JFK, SFO, SEA, LAS, MCO
 
 These data sets will provide us with daily flight records for every flight occuring between the desired airports, as well as local weather at both the origin and destination airports. This will allow us to analyze the local weather trends of both origin and destination airports and understand the relationship this has to flight delays.
 
-##Additional Exploration Questions
+## Additional Exploration Questions
 1. Based on a 7 day weather forecast, which day and airline should I fly to minimize the expected delay?
 2. How do current weather trends impact the delay of future flights?
 3. How do we minimize the expected cost of delays to the company?
